@@ -1,0 +1,136 @@
+{
+    "john.doe": {
+        "branches": [
+            "Amalapuram",
+            "Bapatla",
+            "Chilakaluripet"
+        ],
+        "products": [
+            "KALDOFIN BC 12 24M",
+            "KCPL-BC-0001"
+        ],
+        "loans": []
+    },
+    "Bharathi": {
+        "branches": [],
+        "products": [],
+        "loans": []
+    },
+    "Soumiya": {
+        "branches": [
+            "Amalapuram",
+            "Amberpet",
+            "Ankapalli",
+            "Bapatla",
+            "Bhimavaram",
+            "Chilakaluripet",
+            "Chomu",
+            "Eluru",
+            "Gajuwaka",
+            "Gannavaram",
+            "Gudivada",
+            "Gummidipoondi",
+            "Guntur",
+            "Jangareddygudem",
+            "Kaikaluru",
+            "Kakinada",
+            "Machilipatnam",
+            "Minjur",
+            "Narsipatnam",
+            "Nidadavolu",
+            "Nuzvid",
+            "Pendurthy",
+            "Pithapuram",
+            "Ponneri",
+            "Rajamundry",
+            "Ramachandrapuram",
+            "Ravulapalem",
+            "Razole",
+            "Redhills",
+            "Samrlakota",
+            "Tanuku",
+            "Tenali",
+            "Thagarapu Valasa",
+            "Tuni",
+            "Uthukottai",
+            "Vijayawada-1",
+            "Vijayawada-2",
+            "Vikrampuri - IL",
+            "Visakhapatnam",
+            "Vizianagram",
+            "Yanam",
+            "Yeleswaram"
+        ],
+        "products": [
+            "MAS-BC-0001",
+            "MAS_IL_18M_24M",
+            "ANANYA bc 50kTO2LAKHS 24m",
+            "ASPIRE CL 12 24M",
+            "BC CL 5K 12M MONTHLY",
+            "BC CL MB Monthly",
+            "BUSINESS LAP OWN 28",
+            "CL_OWN_5K_10K_BWK_D",
+            "CONSUMPTION OWN 26",
+            "CONSUMPTION_BWK_12M_5K_S",
+            "Consumption IL 2plus Fortune",
+            "ECLEAR BC  50K 2L 24M",
+            "KALDOFIN BC 12 24M",
+            "KCPL-BC-0001",
+            "LAP 105M RESTRUC",
+            "MAXFIN EMP IL24M",
+            "MAXFIN EMPIL 32 24M",
+            "MAXFIN-OWN-12M-48M 1.05L-2L",
+            "MAXFIN-OWN-12M-48M 30K-1L",
+            "MAXFIN-OWN-24M-60M 2.05L-5L",
+            "MAXFIN_EMP_IL_36M",
+            "MAXFIN_OWN_IL12M_IL18M_WKLY",
+            "MAXFIN_OWN_IL12M_IL18M_WKLY_20k",
+            "MAXFIN_OWN_IL_35.05_18M",
+            "OWN 36",
+            "OWN CL 10K 12M MONTHLY",
+            "OWN CL 5K 12M MONTHLY",
+            "PLUSFORTURN CL 12 24M",
+            "PRAGATI_1Y_W_35_SS_10K",
+            "RL OWN 0001",
+            "SME OWN 34",
+            "SMNT-BC-12-18M 40K-75K",
+            "SMNT-BC-12-36M 76K-1.25L",
+            "UJJWAL_1Y_W_35_SS_30K",
+            "UJWAL_BW_12M_30K_SINGLE",
+            "UJWAL_BW_18M_40K_DUAL_SINGLE_H",
+            "UJWAL_MONTHLY_18M_40K",
+            "VIKAS_BWK_18M_50K_DUAL",
+            "VIKAS_BW_18M_40K_SINGLE_DUAL"
+        ],
+        "loans": []
+    },
+    "Dhanalatha": {
+        "branches": [],
+        "products": [],
+        "loans": []
+    },
+    "Vaishnavi": {
+        "branches": [],
+        "products": [],
+        "loans": []
+    },
+    "Yesurani": {
+        "branches": [],
+        "products": [],
+        "loans": []
+    },
+    "bharathi": {
+        "branches": [
+            "Amalapuram"
+        ],
+        "products": [],
+        "loans": [
+            "All Branches"
+        ]
+    },
+    "bharathi1": {
+        "branches": [],
+        "products": [],
+        "loans": []
+    }
+}
